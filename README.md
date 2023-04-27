@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony López</h1>
-<h3 align="center">A frontend and backend developer student =)</h3>
+<h3 align="center">A Systems Engineering student =)</h3>
 
 - 🔭 Soft Skills: **Team work | Problem solving | Communication | Critical thinking | Adaptability | Time management | Interpersonal**
 
