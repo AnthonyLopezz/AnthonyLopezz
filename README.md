@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Angular, Ionic**
 
-- ⚡ Fun fact **Im a good boy :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
