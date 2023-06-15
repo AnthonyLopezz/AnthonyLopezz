@@ -3,7 +3,7 @@
 
 - 🔭 Soft Skills: **Team work | Problem solving | Communication | Critical thinking | Adaptability | Time management | Interpersonal**
 
-- 🌱 I’m currently learning **Angular, ISO 27000, Security TI**
+- 🌱 I’m currently learning **Angular, Ionic**
 
 - ⚡ Fun fact **Im a good boy :)**
 
