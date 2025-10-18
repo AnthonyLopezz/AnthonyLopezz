@@ -3,9 +3,6 @@
 
 - 🔭 Soft Skills: **Team work | Problem solving | Communication | Critical thinking | Adaptability | Time management | Interpersonal**
 
-- 🌱 I’m currently learning **Node.js with Clean Architecture**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
